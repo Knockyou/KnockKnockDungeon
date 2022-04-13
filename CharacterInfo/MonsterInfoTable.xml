@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CharacterInfo>
+  <InfoRecord>
+	<index>0</index>
+    <exp>10</exp>
+    <power>1</power>
+	<hp>20</hp>
+	<goldMin>2</goldMin>
+	<goldMax>5</goldMax>
+	<item>0,1</item>
+	<speed>1.0</speed>
+  </InfoRecord>
+  <InfoRecord>
+	<index>1</index>
+    <exp>20</exp>
+    <power>3</power>
+	<hp>20</hp>
+	<goldMin>3</goldMin>
+	<goldMax>6</goldMax>
+	<item>0,1,2</item>
+	<speed>1.5</speed>
+  </InfoRecord>
+</CharacterInfo>

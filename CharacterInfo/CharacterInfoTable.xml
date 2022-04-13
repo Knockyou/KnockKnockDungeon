@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<CharacterInfo>
+  <InfoRecord>
+	<index>0</index>
+    <power>5</power>
+	<hp>50</hp>
+	<mp>20</mp>
+	<speed>5.0</speed>
+  </InfoRecord>
+  <InfoRecord>
+	<index>1</index>
+    <power>4</power>
+	<hp>60</hp>
+	<mp>10</mp>
+	<speed>3.0</speed>
+  </InfoRecord>
+</CharacterInfo>
